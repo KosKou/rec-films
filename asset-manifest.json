@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rec-films/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rec-films/static/js/main.1f36d569.chunk.js",
+    "main.js.map": "/rec-films/static/js/main.1f36d569.chunk.js.map",
+    "runtime-main.js": "/rec-films/static/js/runtime-main.605fae62.js",
+    "runtime-main.js.map": "/rec-films/static/js/runtime-main.605fae62.js.map",
+    "static/js/2.bce3ce83.chunk.js": "/rec-films/static/js/2.bce3ce83.chunk.js",
+    "static/js/2.bce3ce83.chunk.js.map": "/rec-films/static/js/2.bce3ce83.chunk.js.map",
+    "index.html": "/rec-films/index.html",
+    "precache-manifest.dfb0ff1988a61b7eed0cf33f29bb49ea.js": "/rec-films/precache-manifest.dfb0ff1988a61b7eed0cf33f29bb49ea.js",
+    "service-worker.js": "/rec-films/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rec-films/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.bce3ce83.chunk.js.LICENSE.txt": "/rec-films/static/js/2.bce3ce83.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rec-films/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.605fae62.js",
+    "static/js/2.bce3ce83.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1f36d569.chunk.js"
+  ]
+}
